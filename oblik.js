@@ -1,3 +1,4 @@
+///Proba
 class Oblik {
   constructor( a = 100, x = random(50,width -50), y = random(50, height-50)) {
     //koordinate
